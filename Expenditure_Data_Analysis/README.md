@@ -1,7 +1,7 @@
 
 ## Demo
 
-![Expenditure_Data_Analysis](https://github.com/ujjawaljani/Data_Analytics_Projects/blob/main/Expenditure_Data_Analysis/short_Preview.mp4)
+![Expenditure_Data_Analysis](https://github.com/ujjawaljani/Data_Analytics_Projects/blob/main/Expenditure_Data_Analysis/exp_data_analysis.gif)
 
   
 # Expenditure Data Analysis
